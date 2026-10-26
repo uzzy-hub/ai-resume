@@ -1,0 +1,6 @@
+{
+  "name": "ResumeIQ — AI Resume Analyzer",
+  "description": "An educational AI/ML web application that analyzes PDF resumes against job descriptions using TF-IDF vectorization, cosine similarity, and NLP skill extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
